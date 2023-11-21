@@ -2,7 +2,7 @@ import axios from "axios";
 //import jwt from "jwt-decode"
 import {Buffer} from 'buffer';
 
-const API_URL = "http://165.227.177.75/";
+const API_URL = "https://tyr-0yy7.onrender.com/";
 
 /**
  * Función para realizar las peticiones al backend enviando headers con el token 

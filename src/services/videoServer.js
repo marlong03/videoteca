@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/videos/";
+const API_URL = "https://tyr-0yy7.onrender.com/videos/";
 
 /**
  * Función para consultar con el backend la lista de todos los videos sin filtrar.

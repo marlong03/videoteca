@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/series/";
+const API_URL = "https://tyr-0yy7.onrender.com/series/";
 
 /**
  * Función para consultar todas las series registradas en la base de datos.

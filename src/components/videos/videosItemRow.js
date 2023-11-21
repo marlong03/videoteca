@@ -52,7 +52,7 @@ const VideosItemRow = ({ video,...props }) => {
       <div className="card card-body">
         <Button onClick={() =>props.verVideo(video.id)}>
           <Image
-            src={"http://165.227.177.75" + video.featured_image}
+            src={"https://tyr-0yy7.onrender.com" + video.featured_image}
             className="img-fluid"
           ></Image>
         </Button>

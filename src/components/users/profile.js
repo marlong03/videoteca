@@ -128,7 +128,7 @@ const UserProfile = () => {
           </h1>
           <div className={"col-md-5 " + classes.contenedorImg}>
             <Image
-              src={"http://165.227.177.75" + dataUser.image}
+              src={"https://tyr-0yy7.onrender.com" + dataUser.image}
               className={classes.imagenPerfil}
             ></Image>
             <div className="d-grid  col-8  mx-auto">

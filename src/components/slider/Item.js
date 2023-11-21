@@ -50,7 +50,7 @@ const Item = ({ video,...props }) => {
             <Button onClick={() => props.verVideo(video.id)}>
             <div className="imagen-container">
               <img
-                src={"http://165.227.177.75" + video.featured_image}
+                src={"https://tyr-0yy7.onrender.com" + video.featured_image}
                 alt=""
               />
             </div>

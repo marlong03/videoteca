@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/commentaries/";
+const API_URL = "https://tyr-0yy7.onrender.com/commentaries/";
 
 /**
  * Función para agregar un nuevo comentario a un video.

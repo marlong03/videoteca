@@ -62,7 +62,7 @@ const VideosItem = ({ video,...props } ) => {
       <div className={"row "+classes.row}>
         <div className={"col-md-8  col-12 " +classes.imagen}>          
             <Image
-              src={"http://165.227.177.75" + video.featured_image}
+              src={"https://tyr-0yy7.onrender.com" + video.featured_image}
               className={classes.imagenCarousel }
             ></Image>
         </div>

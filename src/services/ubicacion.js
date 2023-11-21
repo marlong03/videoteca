@@ -1,6 +1,6 @@
 import axiosInstance from "../axios";
 
-const API_URL = "http://165.227.177.75/ubicaciones/";
+const API_URL = "https://tyr-0yy7.onrender.com/ubicaciones/";
 
 /**
  * Función para registrar una ubicación.
